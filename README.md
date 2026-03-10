@@ -1,1 +1,2 @@
-Hello this is ALI
+Hi, 
+This is Ali, welcome to my portfolio
